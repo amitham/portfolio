@@ -26,7 +26,7 @@ const projects = [
         id: Math.random(0, 10000),
         title: "Event Planner",
         description: "Chakra UI provides prebuild components to help you build your projects faster. Here is an overview of the component categories:",
-        getImageSrc: () => require("../images/project04.jpg")
+        getImageSrc: () => require("../images/project03.jpg")
     }
 ]
 
